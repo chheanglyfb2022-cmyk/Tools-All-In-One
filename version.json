@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "release_date": "2026-03-18",
+  "download_url": "https://github.com/username/repository/releases/download/v1.0.1/ToolsAllInOne.exe",
+  "changelog": [
+    "New feature added",
+    "Bug fixes",
+    "Performance improvements"
+  ]
+}
